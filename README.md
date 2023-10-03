@@ -12,9 +12,9 @@ Aqui estão os requisitos para o sistema:
     - Gênero
     
 * Crie uma enumeração chamada Genre que representará os gêneros do filme. Ela deve conter pelo menos três casos, exemplo:
- - “Ação”, 
- - “Comédia”
- - “Drama”.
+ - Ação
+ - Comédia
+ - Drama
  
 * Crie uma estrutura chamada Reservation que representará uma reserva de ingressos para um filme. Cada reserva deve ter os seguintes atributos:
     - Filme (um objeto de classe Movie)
